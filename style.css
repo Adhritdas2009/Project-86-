@@ -1,0 +1,9 @@
+.bodystyle{
+    background-image: url("https://c.tenor.com/AyG5njrbcGIAAAAM/animated-cute.gif");
+    background-position: center;
+    background-size:cover;
+}
+
+#bday{
+    border: 15px ridge seagreen;
+}
